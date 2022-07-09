@@ -1,7 +1,20 @@
-h1{
+h1 {
     background-color: aquamarine;
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     font-size: 50px;
+}
+
+.text {
+    background-color: bisque;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin: 50px 500px;
+
+}
+
+#center {
+    padding-top: 200px;
 }
